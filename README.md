@@ -1,6 +1,6 @@
 # mpiBOT
 
-**Discord bot for Pokémon pricing information and tracking quality of life (QOL)**
+**Discord bot for TCG pricing information and tracking quality of life (QOL)**
 
 ---
 
